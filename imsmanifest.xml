@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Pg4DP9iX5l_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Kilsaran Company Induction - Demo Course</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Kilsaran_Company_Induction_-_Demo_Course_ORG">
+    <organization identifier="Kilsaran_Company_Induction_-_Demo_Course_ORG">
+      <title>Kilsaran Company Induction - Demo Course</title>
+      <item identifier="Recovery_of_Threatened_Species_SCO" isvisible="true" identifierref="__6Pg4DP9iX5l_course_id_RES">
+        <title>Kilsaran Company Induction - Demo Course</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Pg4DP9iX5l_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6k1aCJ94KFy.jpg" />
+      <file href="mobile/5i1YTVLsb9t.jpg" />
+      <file href="mobile/5Zg9MTGDiwL_P_302_47_104_266.png" />
+      <file href="story_content/video_6Sq9l7nNuXN_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5hMAxA6CkvC_video_6Sq9l7nNuXN_18_160_1920x1080.jpg" />
+      <file href="story_content/video_68REdpEb4yO_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6N7EhNy2Sts_video_68REdpEb4yO_18_160_1920x1080.jpg" />
+      <file href="story_content/video_6cxChquvk6r_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_68F96pr8qQ7_video_6cxChquvk6r_18_160_1920x1080.jpg" />
+      <file href="story_content/video_6EBRuF3tZYi_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6XedUcgV5l3_video_6EBRuF3tZYi_18_160_1920x1080.jpg" />
+      <file href="story_content/video_5WSULq9Crxp_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6bWT78pudXU_video_5WSULq9Crxp_18_160_1920x1080.jpg" />
+      <file href="mobile/6BjUgvQ7Pb6.png" />
+      <file href="mobile/5yWQ5wP3MfY_M_430_430.png" />
+      <file href="mobile/5r0mcWgsy0Y_M_430_430.png" />
+      <file href="mobile/6gc0esRwW4L_M_424_424.png" />
+      <file href="mobile/6bA70KCO7hO_M_430_430.png" />
+      <file href="mobile/60pm10I91Ki_M_5474_5474_P_0_1518_2543_1431.png" />
+      <file href="mobile/6dJik6bPuje.jpg" />
+      <file href="meta.xml" />
+      <file href="mobile/60J8PIAzBPu.jpg" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6aKUQXzlGqE.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5c13A2BNYhz.js" />
+      <file href="html5/data/js/5obh6BRtfiK.js" />
+      <file href="html5/data/js/6gsj3afzIRV.js" />
+      <file href="html5/data/js/6iF2OYeQS4E.js" />
+      <file href="html5/data/js/6jW5LKxDo1c.js" />
+      <file href="html5/data/js/6KesM4Y2aio.js" />
+      <file href="html5/data/js/6lQIzAQSfCP.js" />
+      <file href="html5/data/js/6P3MSgL3lFr.js" />
+      <file href="html5/data/js/6YUNJ4e4DDT.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
